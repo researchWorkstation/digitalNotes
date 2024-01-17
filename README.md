@@ -1,4 +1,4 @@
-# (WIP) digitalNotes
+# (deprecated) digitalNotes
 
 Читать через [obsidian](https://obsidian.md/)
 
